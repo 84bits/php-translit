@@ -1,5 +1,7 @@
 <?php
 
+namespace Ashtokalo\Translit;
+
 /**
  * Transliteration data to clean ASCII
  *
